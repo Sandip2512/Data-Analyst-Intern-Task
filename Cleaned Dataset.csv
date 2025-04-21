@@ -1,0 +1,527 @@
+Student_ID,Course_ID_x,Date,Time_Spent_Minutes,Completion_Percentage,Course_ID_y,Rating,Feedback_Text,Name,Age,Gender,Location,Enrolment_Date
+S002,PY202,2024-02-03,45,32.2,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,UX303,2024-03-15,119,90.8,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,WD404,2024-02-16,66,99.76,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,PY202,2024-03-06,136,18.18,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,DM101,2024-01-15,49,66.47,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,WD404,2024-03-17,26,44.63,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,WD404,2024-03-08,74,97.4,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,DM101,2024-03-28,39,71.35,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,UX303,2024-03-23,97,20.04,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S002,WD404,2024-01-21,126,10.29,PY202,3,Well structured,Student_2,32,Other,Chennai,2023-02-27
+S004,WD404,2024-03-11,52,33.86,DM101,1,Excellent instructor,Student_4,25,Female,Bangalore,2023-05-21
+S004,WD404,2024-01-28,148,77.97,DM101,1,Excellent instructor,Student_4,25,Female,Bangalore,2023-05-21
+S004,PY202,2024-02-09,112,99.56,DM101,1,Excellent instructor,Student_4,25,Female,Bangalore,2023-05-21
+S004,UX303,2024-02-26,142,50.63,DM101,1,Excellent instructor,Student_4,25,Female,Bangalore,2023-05-21
+S004,PY202,2024-01-29,26,40.43,DM101,1,Excellent instructor,Student_4,25,Female,Bangalore,2023-05-21
+S005,PY202,2024-01-01,28,73.71,DM101,4,Loved the examples,Student_5,24,Other,Delhi,2023-05-06
+S005,DM101,2024-01-30,27,91.49,DM101,4,Loved the examples,Student_5,24,Other,Delhi,2023-05-06
+S005,UX303,2024-01-10,141,31.42,DM101,4,Loved the examples,Student_5,24,Other,Delhi,2023-05-06
+S005,WD404,2024-01-28,148,21.91,DM101,4,Loved the examples,Student_5,24,Other,Delhi,2023-05-06
+S005,WD404,2024-02-01,131,82.67,DM101,4,Loved the examples,Student_5,24,Other,Delhi,2023-05-06
+S005,PY202,2024-01-13,34,69.31,DM101,4,Loved the examples,Student_5,24,Other,Delhi,2023-05-06
+S006,WD404,2024-02-22,129,87.75,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,DM101,2024-03-27,177,98.57,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,DM101,2024-01-08,113,75.54,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,DM101,2024-02-01,59,27.12,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,WD404,2024-01-18,118,26.51,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,WD404,2024-02-01,29,49.88,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,DM101,2024-01-07,176,99.94,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S006,DM101,2024-01-12,70,24.97,DM101,1,Loved the examples,Student_6,28,Other,Delhi,2023-04-25
+S008,WD404,2024-03-25,159,60.87,DM101,2,Could be better,Student_8,21,Other,Bangalore,2023-02-22
+S008,UX303,2024-02-03,62,70.28,DM101,2,Could be better,Student_8,21,Other,Bangalore,2023-02-22
+S008,UX303,2024-01-31,77,45.62,DM101,2,Could be better,Student_8,21,Other,Bangalore,2023-02-22
+S008,UX303,2024-02-28,90,93.61,DM101,2,Could be better,Student_8,21,Other,Bangalore,2023-02-22
+S009,DM101,2024-02-28,169,99.86,UX303,4,Well structured,Student_9,25,Other,Kolkata,2023-12-13
+S009,DM101,2024-01-10,147,29.18,UX303,4,Well structured,Student_9,25,Other,Kolkata,2023-12-13
+S009,UX303,2024-01-17,99,89.28,UX303,4,Well structured,Student_9,25,Other,Kolkata,2023-12-13
+S009,PY202,2024-02-17,82,24.2,UX303,4,Well structured,Student_9,25,Other,Kolkata,2023-12-13
+S010,DM101,2024-03-26,151,36.94,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S010,DM101,2024-01-18,77,20.39,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S010,DM101,2024-03-11,49,34.51,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S010,PY202,2024-02-13,62,71.87,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S010,UX303,2024-03-05,135,32.6,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S010,DM101,2024-01-12,172,48.12,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S010,UX303,2024-01-06,10,40.02,WD404,4,Loved the examples,Student_10,20,Female,Bangalore,2023-10-07
+S011,UX303,2024-01-21,123,59.65,PY202,5,Needs improvement,Student_11,19,Female,Chennai,2023-02-14
+S011,WD404,2024-03-12,12,20.07,PY202,5,Needs improvement,Student_11,19,Female,Chennai,2023-02-14
+S011,PY202,2024-03-10,19,85.11,PY202,5,Needs improvement,Student_11,19,Female,Chennai,2023-02-14
+S011,PY202,2024-02-25,42,13.76,PY202,5,Needs improvement,Student_11,19,Female,Chennai,2023-02-14
+S011,UX303,2024-01-06,101,28.91,PY202,5,Needs improvement,Student_11,19,Female,Chennai,2023-02-14
+S014,DM101,2024-01-14,162,49.11,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S014,UX303,2024-02-25,165,98.58,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S014,DM101,2024-02-19,157,27.11,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S014,DM101,2024-03-31,121,10.15,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S014,PY202,2024-02-16,120,16.3,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S014,UX303,2024-03-20,90,69.7,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S014,DM101,2024-02-08,139,37.84,UX303,2,Excellent instructor,Student_14,19,Other,Chennai,2023-01-17
+S015,UX303,2024-02-21,85,59.9,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,PY202,2024-02-23,180,94.63,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,PY202,2024-03-19,155,37.09,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,DM101,2024-02-08,83,28.92,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,UX303,2024-02-29,123,49.79,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,PY202,2024-03-06,131,81.44,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,PY202,2024-03-25,31,35.54,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,UX303,2024-01-12,70,70.55,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S015,PY202,2024-01-26,47,12.2,DM101,3,Needs improvement,Student_15,18,Other,Bangalore,2023-01-16
+S016,WD404,2024-03-19,28,50.99,DM101,3,Loved the examples,Student_16,29,Male,Mumbai,2023-02-17
+S016,PY202,2024-03-30,108,54.49,DM101,3,Loved the examples,Student_16,29,Male,Mumbai,2023-02-17
+S016,PY202,2024-01-19,177,71.89,DM101,3,Loved the examples,Student_16,29,Male,Mumbai,2023-02-17
+S016,DM101,2024-02-24,66,25.83,DM101,3,Loved the examples,Student_16,29,Male,Mumbai,2023-02-17
+S016,WD404,2024-01-07,152,32.43,DM101,3,Loved the examples,Student_16,29,Male,Mumbai,2023-02-17
+S016,DM101,2024-02-28,44,82.13,DM101,3,Loved the examples,Student_16,29,Male,Mumbai,2023-02-17
+S017,WD404,2024-03-19,139,48.41,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,WD404,2024-01-21,131,50.51,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,PY202,2024-03-22,80,78.92,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,WD404,2024-03-21,71,34.71,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,DM101,2024-02-06,70,34.45,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,UX303,2024-03-10,30,22.45,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,PY202,2024-02-19,49,73.58,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S017,DM101,2024-02-23,114,39.78,PY202,5,Great course!,Student_17,29,Male,Bangalore,2023-04-22
+S018,WD404,2024-01-08,62,84.96,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,WD404,2024-03-15,15,87.11,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,WD404,2024-03-02,11,94.85,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,UX303,2024-02-19,117,58.44,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,PY202,2024-03-03,66,34.56,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,WD404,2024-01-04,109,40.25,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,WD404,2024-01-22,129,92.76,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,DM101,2024-02-20,161,60.8,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,DM101,2024-01-11,174,48.58,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S018,WD404,2024-01-24,22,33.41,PY202,3,Too fast-paced,Student_18,34,Female,Bangalore,2023-04-30
+S019,PY202,2024-02-28,93,40.38,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,WD404,2024-02-05,117,32.7,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,DM101,2024-03-01,14,77.41,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,DM101,2024-02-14,67,68.51,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,DM101,2024-01-04,73,27.94,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,DM101,2024-03-20,49,31.47,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,WD404,2024-03-26,39,60.76,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S019,PY202,2024-02-29,75,79.02,UX303,2,Needs improvement,Student_19,27,Male,Chennai,2023-09-16
+S021,UX303,2024-01-09,139,68.28,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,DM101,2024-02-23,135,19.5,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,UX303,2024-03-22,127,73.66,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,WD404,2024-01-23,143,96.89,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,UX303,2024-03-19,147,79.72,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,WD404,2024-02-25,161,34.16,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,PY202,2024-01-12,81,89.35,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,PY202,2024-02-29,155,64.93,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S021,WD404,2024-02-13,17,54.49,UX303,4,Needs improvement,Student_21,32,Other,Delhi,2023-01-14
+S022,PY202,2024-03-03,64,41.93,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,UX303,2024-02-13,81,89.23,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,UX303,2024-03-12,12,56.5,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,PY202,2024-01-11,71,74.81,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,WD404,2024-03-12,71,72.15,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,WD404,2024-02-27,14,18.37,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,PY202,2024-02-21,72,37.56,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S022,UX303,2024-03-01,151,57.78,PY202,4,Could be better,Student_22,32,Male,Delhi,2023-10-15
+S023,UX303,2024-02-15,126,34.38,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,UX303,2024-01-30,40,74.92,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,UX303,2024-01-16,147,95.58,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,PY202,2024-01-25,65,76.47,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,UX303,2024-03-16,144,63.71,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,DM101,2024-01-25,85,30.47,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,PY202,2024-02-08,13,73.72,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,PY202,2024-02-05,21,97.69,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S023,UX303,2024-03-30,42,67.41,PY202,1,Excellent instructor,Student_23,29,Other,Mumbai,2023-04-12
+S028,UX303,2024-02-11,39,97.32,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,WD404,2024-03-06,10,69.19,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,WD404,2024-02-22,23,26.88,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,UX303,2024-03-20,137,66.29,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,DM101,2024-01-27,78,59.43,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,UX303,2024-02-26,134,20.93,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,PY202,2024-03-31,50,37.97,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S028,DM101,2024-03-11,114,18.39,WD404,1,Very helpful,Student_28,24,Other,Delhi,2023-04-23
+S029,WD404,2024-01-16,175,84.89,UX303,3,Could be better,Student_29,21,Other,Mumbai,2023-08-18
+S029,WD404,2024-02-07,140,73.49,UX303,3,Could be better,Student_29,21,Other,Mumbai,2023-08-18
+S029,WD404,2024-03-02,130,31.94,UX303,3,Could be better,Student_29,21,Other,Mumbai,2023-08-18
+S029,PY202,2024-02-19,58,92.97,UX303,3,Could be better,Student_29,21,Other,Mumbai,2023-08-18
+S030,DM101,2024-02-05,116,40.59,DM101,4,Too fast-paced,Student_30,31,Female,Mumbai,2023-10-29
+S030,UX303,2024-01-01,82,75.34,DM101,4,Too fast-paced,Student_30,31,Female,Mumbai,2023-10-29
+S030,WD404,2024-01-20,124,58.47,DM101,4,Too fast-paced,Student_30,31,Female,Mumbai,2023-10-29
+S030,UX303,2024-02-12,151,78.66,DM101,4,Too fast-paced,Student_30,31,Female,Mumbai,2023-10-29
+S030,WD404,2024-02-28,92,88.26,DM101,4,Too fast-paced,Student_30,31,Female,Mumbai,2023-10-29
+S032,UX303,2024-03-20,111,68.49,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S032,UX303,2024-03-27,146,44.2,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S032,UX303,2024-03-21,134,88.51,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S032,DM101,2024-03-20,27,31.13,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S032,UX303,2024-01-30,33,49.06,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S032,DM101,2024-03-22,35,49.93,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S032,UX303,2024-01-04,21,39.19,PY202,2,Very helpful,Student_32,19,Female,Chennai,2023-01-04
+S034,PY202,2024-03-04,159,22.88,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,WD404,2024-03-22,75,51.36,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,DM101,2024-02-29,83,70.98,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,PY202,2024-01-10,123,95.07,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,UX303,2024-03-22,118,72.13,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,WD404,2024-02-08,60,99.94,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,WD404,2024-01-14,70,44.32,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,UX303,2024-03-14,85,99.34,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S034,UX303,2024-01-03,178,45.62,PY202,1,Very helpful,Student_34,24,Female,Delhi,2023-12-24
+S035,DM101,2024-03-18,137,84.96,PY202,4,Very helpful,Student_35,29,Male,Chennai,2023-08-05
+S035,UX303,2024-01-30,165,82.17,PY202,4,Very helpful,Student_35,29,Male,Chennai,2023-08-05
+S035,PY202,2024-03-22,58,65.88,PY202,4,Very helpful,Student_35,29,Male,Chennai,2023-08-05
+S036,DM101,2024-03-21,175,13.55,DM101,5,Excellent instructor,Student_36,25,Male,Chennai,2023-06-24
+S036,WD404,2024-01-05,158,42.84,DM101,5,Excellent instructor,Student_36,25,Male,Chennai,2023-06-24
+S036,PY202,2024-01-12,85,39.4,DM101,5,Excellent instructor,Student_36,25,Male,Chennai,2023-06-24
+S036,WD404,2024-01-23,61,21.89,DM101,5,Excellent instructor,Student_36,25,Male,Chennai,2023-06-24
+S036,UX303,2024-03-08,138,92.21,DM101,5,Excellent instructor,Student_36,25,Male,Chennai,2023-06-24
+S037,UX303,2024-03-02,85,77.19,UX303,3,Too fast-paced,Student_37,32,Female,Delhi,2023-05-23
+S037,UX303,2024-01-15,129,96.66,UX303,3,Too fast-paced,Student_37,32,Female,Delhi,2023-05-23
+S037,PY202,2024-01-29,111,97.05,UX303,3,Too fast-paced,Student_37,32,Female,Delhi,2023-05-23
+S037,UX303,2024-01-12,111,11.25,UX303,3,Too fast-paced,Student_37,32,Female,Delhi,2023-05-23
+S037,DM101,2024-02-28,104,70.55,UX303,3,Too fast-paced,Student_37,32,Female,Delhi,2023-05-23
+S038,WD404,2024-03-22,105,19.75,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S038,PY202,2024-03-01,16,65.76,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S038,UX303,2024-03-19,66,68.29,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S038,WD404,2024-03-30,87,68.43,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S038,DM101,2024-01-18,21,95.16,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S038,UX303,2024-03-04,39,18.75,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S038,PY202,2024-02-19,126,43.39,WD404,3,Great course!,Student_38,20,Female,Mumbai,2023-03-21
+S039,PY202,2024-02-23,177,18.91,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,WD404,2024-03-19,114,94.51,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,UX303,2024-01-05,104,29.55,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,WD404,2024-01-31,102,18.94,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,UX303,2024-03-10,175,42.28,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,WD404,2024-02-05,58,97.14,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,WD404,2024-01-12,179,29.09,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,DM101,2024-01-07,95,31.92,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S039,PY202,2024-03-13,62,16.17,DM101,5,Too fast-paced,Student_39,31,Female,Delhi,2023-04-21
+S040,PY202,2024-01-30,94,79.69,DM101,5,Too fast-paced,Student_40,34,Other,Chennai,2023-06-22
+S040,DM101,2024-02-05,47,98.88,DM101,5,Too fast-paced,Student_40,34,Other,Chennai,2023-06-22
+S040,UX303,2024-01-23,38,69.5,DM101,5,Too fast-paced,Student_40,34,Other,Chennai,2023-06-22
+S040,DM101,2024-01-17,13,42.24,DM101,5,Too fast-paced,Student_40,34,Other,Chennai,2023-06-22
+S040,PY202,2024-03-16,92,11.42,DM101,5,Too fast-paced,Student_40,34,Other,Chennai,2023-06-22
+S040,UX303,2024-01-07,42,76.75,DM101,5,Too fast-paced,Student_40,34,Other,Chennai,2023-06-22
+S041,DM101,2024-03-01,124,80.02,UX303,1,Needs improvement,Student_41,21,Female,Kolkata,2023-02-22
+S041,DM101,2024-02-27,138,29.94,UX303,1,Needs improvement,Student_41,21,Female,Kolkata,2023-02-22
+S041,DM101,2024-03-25,143,37.15,UX303,1,Needs improvement,Student_41,21,Female,Kolkata,2023-02-22
+S041,DM101,2024-01-08,132,86.26,UX303,1,Needs improvement,Student_41,21,Female,Kolkata,2023-02-22
+S042,DM101,2024-03-03,123,16.61,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,DM101,2024-02-11,165,23.35,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,PY202,2024-02-05,169,66.98,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,UX303,2024-02-18,162,57.75,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,WD404,2024-03-05,164,48.72,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,DM101,2024-03-24,176,88.99,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,PY202,2024-02-25,125,89.93,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,WD404,2024-02-13,126,45.89,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S042,DM101,2024-02-10,119,38.13,WD404,1,Could be better,Student_42,25,Other,Kolkata,2023-02-17
+S043,UX303,2024-01-20,131,16.04,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S043,DM101,2024-01-12,120,18.69,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S043,UX303,2024-01-17,152,15.4,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S043,UX303,2024-03-26,41,46.97,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S043,WD404,2024-01-07,83,64.04,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S043,UX303,2024-01-14,157,55.67,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S043,PY202,2024-03-25,133,30.18,UX303,1,Great course!,Student_43,21,Male,Bangalore,2023-07-14
+S045,UX303,2024-02-14,11,26.33,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S045,PY202,2024-03-13,178,46.07,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S045,PY202,2024-03-22,17,18.26,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S045,PY202,2024-02-18,117,50.83,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S045,PY202,2024-02-17,89,74.94,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S045,DM101,2024-01-07,49,24.17,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S045,DM101,2024-03-27,30,34.49,PY202,1,Great course!,Student_45,23,Female,Delhi,2023-07-03
+S046,WD404,2024-03-18,123,47.28,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,PY202,2024-03-06,39,41.07,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,DM101,2024-02-06,161,53.8,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,UX303,2024-01-06,66,45.57,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,DM101,2024-01-01,62,37.13,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,PY202,2024-01-18,75,36.05,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,DM101,2024-01-01,137,77.23,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,PY202,2024-01-17,107,57.93,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S046,PY202,2024-03-05,153,85.0,WD404,4,Excellent instructor,Student_46,27,Male,Bangalore,2023-06-26
+S047,DM101,2024-02-20,20,49.26,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,WD404,2024-01-10,90,61.82,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,WD404,2024-03-31,173,47.59,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,DM101,2024-02-21,15,96.96,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,PY202,2024-03-20,127,84.88,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,UX303,2024-01-12,121,86.0,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,PY202,2024-02-25,160,46.04,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S047,DM101,2024-02-20,89,77.12,WD404,1,Too fast-paced,Student_47,21,Male,Bangalore,2023-11-06
+S048,UX303,2024-01-22,29,55.94,WD404,1,Great course!,Student_48,29,Male,Bangalore,2023-05-16
+S048,DM101,2024-03-08,140,27.45,WD404,1,Great course!,Student_48,29,Male,Bangalore,2023-05-16
+S048,UX303,2024-02-14,175,83.35,WD404,1,Great course!,Student_48,29,Male,Bangalore,2023-05-16
+S048,PY202,2024-01-14,47,33.04,WD404,1,Great course!,Student_48,29,Male,Bangalore,2023-05-16
+S048,PY202,2024-03-18,49,78.42,WD404,1,Great course!,Student_48,29,Male,Bangalore,2023-05-16
+S048,DM101,2024-01-23,170,54.47,WD404,1,Great course!,Student_48,29,Male,Bangalore,2023-05-16
+S049,UX303,2024-03-21,90,23.59,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,DM101,2024-03-01,123,66.82,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,UX303,2024-03-16,24,41.67,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,DM101,2024-02-09,128,50.67,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,DM101,2024-02-17,83,16.91,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,DM101,2024-03-19,162,55.64,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,WD404,2024-03-15,151,95.88,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,DM101,2024-02-27,156,68.67,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,UX303,2024-03-18,131,55.12,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S049,DM101,2024-02-27,36,82.99,DM101,5,Very helpful,Student_49,19,Other,Chennai,2023-01-23
+S050,DM101,2024-03-05,175,25.53,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,PY202,2024-03-31,122,99.19,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,PY202,2024-02-16,105,92.61,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,WD404,2024-02-22,96,71.1,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,DM101,2024-03-21,175,40.12,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,UX303,2024-01-13,152,71.05,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,UX303,2024-02-02,178,96.8,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S050,PY202,2024-02-12,30,62.45,WD404,1,Well structured,Student_50,27,Female,Delhi,2023-08-24
+S051,UX303,2024-02-09,177,72.86,DM101,2,Could be better,Student_51,21,Male,Chennai,2023-10-02
+S051,WD404,2024-01-17,162,73.8,DM101,2,Could be better,Student_51,21,Male,Chennai,2023-10-02
+S051,DM101,2024-02-09,153,43.9,DM101,2,Could be better,Student_51,21,Male,Chennai,2023-10-02
+S051,UX303,2024-01-17,144,18.41,DM101,2,Could be better,Student_51,21,Male,Chennai,2023-10-02
+S051,WD404,2024-03-06,102,11.64,DM101,2,Could be better,Student_51,21,Male,Chennai,2023-10-02
+S052,PY202,2024-01-28,97,95.29,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S052,WD404,2024-01-25,67,100.0,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S052,PY202,2024-01-10,85,86.0,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S052,DM101,2024-03-05,148,85.16,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S052,DM101,2024-03-25,96,88.88,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S052,PY202,2024-03-17,106,23.88,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S052,PY202,2024-03-29,169,82.81,WD404,5,Very helpful,Student_52,31,Male,Bangalore,2023-03-05
+S053,WD404,2024-01-06,115,42.79,PY202,2,Needs improvement,Student_53,33,Male,Delhi,2023-07-13
+S053,PY202,2024-02-26,166,35.64,PY202,2,Needs improvement,Student_53,33,Male,Delhi,2023-07-13
+S053,WD404,2024-01-30,146,31.53,PY202,2,Needs improvement,Student_53,33,Male,Delhi,2023-07-13
+S053,WD404,2024-01-25,104,71.05,PY202,2,Needs improvement,Student_53,33,Male,Delhi,2023-07-13
+S053,WD404,2024-02-29,82,80.03,PY202,2,Needs improvement,Student_53,33,Male,Delhi,2023-07-13
+S055,UX303,2024-01-19,45,13.45,DM101,3,Loved the examples,Student_55,25,Other,Chennai,2023-10-10
+S055,WD404,2024-03-30,45,78.3,DM101,3,Loved the examples,Student_55,25,Other,Chennai,2023-10-10
+S055,WD404,2024-02-27,167,10.47,DM101,3,Loved the examples,Student_55,25,Other,Chennai,2023-10-10
+S055,DM101,2024-01-03,75,29.41,DM101,3,Loved the examples,Student_55,25,Other,Chennai,2023-10-10
+S056,WD404,2024-01-15,83,31.39,UX303,4,Loved the examples,Student_56,31,Female,Bangalore,2023-05-31
+S056,DM101,2024-01-07,71,47.78,UX303,4,Loved the examples,Student_56,31,Female,Bangalore,2023-05-31
+S056,WD404,2024-01-09,38,85.3,UX303,4,Loved the examples,Student_56,31,Female,Bangalore,2023-05-31
+S056,WD404,2024-03-17,147,11.48,UX303,4,Loved the examples,Student_56,31,Female,Bangalore,2023-05-31
+S056,PY202,2024-01-19,84,48.63,UX303,4,Loved the examples,Student_56,31,Female,Bangalore,2023-05-31
+S057,PY202,2024-03-14,116,26.86,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,DM101,2024-03-08,102,16.09,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,DM101,2024-02-19,130,13.92,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,WD404,2024-02-17,74,77.26,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,UX303,2024-01-09,98,31.7,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,DM101,2024-03-15,95,22.01,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,UX303,2024-03-10,96,83.22,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S057,PY202,2024-03-28,128,98.27,UX303,2,Too fast-paced,Student_57,25,Other,Delhi,2023-11-18
+S058,PY202,2024-01-18,26,74.44,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,WD404,2024-01-05,85,28.14,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,PY202,2024-01-06,90,94.0,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,WD404,2024-03-10,131,32.8,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,PY202,2024-02-06,101,87.59,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,DM101,2024-03-24,94,34.59,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,UX303,2024-02-25,112,76.9,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,WD404,2024-02-13,57,54.66,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,WD404,2024-02-17,142,34.0,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S058,DM101,2024-02-24,30,48.75,PY202,4,Could be better,Student_58,33,Male,Bangalore,2023-11-13
+S059,UX303,2024-02-11,36,17.21,DM101,1,Could be better,Student_59,30,Female,Delhi,2023-07-05
+S059,UX303,2024-02-09,124,64.24,DM101,1,Could be better,Student_59,30,Female,Delhi,2023-07-05
+S059,WD404,2024-01-22,123,41.64,DM101,1,Could be better,Student_59,30,Female,Delhi,2023-07-05
+S059,DM101,2024-02-15,167,99.83,DM101,1,Could be better,Student_59,30,Female,Delhi,2023-07-05
+S059,UX303,2024-03-22,24,16.75,DM101,1,Could be better,Student_59,30,Female,Delhi,2023-07-05
+S061,WD404,2024-01-28,166,35.7,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S061,WD404,2024-01-26,41,22.22,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S061,DM101,2024-02-27,54,90.88,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S061,WD404,2024-01-12,91,70.11,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S061,DM101,2024-03-11,148,36.13,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S061,UX303,2024-01-21,173,25.67,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S061,UX303,2024-03-06,67,20.92,DM101,2,Very helpful,Student_61,30,Male,Mumbai,2023-04-09
+S062,PY202,2024-01-31,136,12.37,PY202,4,Needs improvement,Student_62,26,Other,Mumbai,2023-12-27
+S062,UX303,2024-02-29,151,21.68,PY202,4,Needs improvement,Student_62,26,Other,Mumbai,2023-12-27
+S062,DM101,2024-01-09,89,45.83,PY202,4,Needs improvement,Student_62,26,Other,Mumbai,2023-12-27
+S062,WD404,2024-03-08,115,79.22,PY202,4,Needs improvement,Student_62,26,Other,Mumbai,2023-12-27
+S062,DM101,2024-01-17,91,67.81,PY202,4,Needs improvement,Student_62,26,Other,Mumbai,2023-12-27
+S062,WD404,2024-02-29,142,41.01,PY202,4,Needs improvement,Student_62,26,Other,Mumbai,2023-12-27
+S063,PY202,2024-02-25,138,91.96,PY202,2,Loved the examples,Student_63,32,Female,Mumbai,2023-02-05
+S063,DM101,2024-01-16,142,23.77,PY202,2,Loved the examples,Student_63,32,Female,Mumbai,2023-02-05
+S063,PY202,2024-01-21,92,94.13,PY202,2,Loved the examples,Student_63,32,Female,Mumbai,2023-02-05
+S063,PY202,2024-02-14,142,90.54,PY202,2,Loved the examples,Student_63,32,Female,Mumbai,2023-02-05
+S063,DM101,2024-02-02,60,67.16,PY202,2,Loved the examples,Student_63,32,Female,Mumbai,2023-02-05
+S064,PY202,2024-03-21,87,65.3,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S064,DM101,2024-03-05,174,25.18,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S064,PY202,2024-01-22,178,66.2,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S064,UX303,2024-03-13,20,84.27,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S064,DM101,2024-01-11,21,95.37,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S064,UX303,2024-03-24,63,79.03,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S064,WD404,2024-03-20,173,12.73,WD404,4,Great course!,Student_64,30,Other,Bangalore,2023-01-24
+S065,UX303,2024-03-02,72,82.42,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S065,WD404,2024-02-08,126,16.57,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S065,DM101,2024-01-21,122,47.41,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S065,WD404,2024-01-27,97,64.6,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S065,UX303,2024-02-10,98,97.78,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S065,PY202,2024-02-17,141,60.55,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S065,UX303,2024-01-31,129,21.03,DM101,4,Loved the examples,Student_65,18,Other,Kolkata,2023-12-05
+S066,PY202,2024-01-19,34,14.55,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,WD404,2024-03-19,117,32.34,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,PY202,2024-02-11,157,74.9,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,PY202,2024-01-21,137,99.64,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,WD404,2024-03-04,88,54.76,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,DM101,2024-02-20,139,51.15,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,PY202,2024-01-28,159,41.76,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,DM101,2024-02-06,136,63.78,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,WD404,2024-02-06,147,10.74,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S066,DM101,2024-02-25,44,89.42,UX303,2,Needs improvement,Student_66,24,Female,Delhi,2023-04-27
+S067,WD404,2024-02-16,21,46.05,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,PY202,2024-02-16,151,35.97,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,WD404,2024-03-05,125,78.8,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,UX303,2024-03-20,166,20.69,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,DM101,2024-02-20,105,81.54,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,UX303,2024-03-12,103,77.95,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,PY202,2024-03-18,140,46.12,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S067,DM101,2024-01-06,19,22.33,DM101,5,Excellent instructor,Student_67,26,Male,Chennai,2023-05-29
+S069,PY202,2024-03-28,72,12.84,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,DM101,2024-01-25,14,49.69,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,WD404,2024-01-20,115,72.15,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,WD404,2024-03-05,166,92.85,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,DM101,2024-03-31,45,56.68,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,UX303,2024-03-25,132,57.29,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,UX303,2024-01-23,127,92.09,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,UX303,2024-03-10,100,70.83,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S069,UX303,2024-03-19,133,27.3,WD404,3,Loved the examples,Student_69,29,Female,Chennai,2023-04-30
+S070,UX303,2024-03-12,86,30.24,DM101,1,Well structured,Student_70,25,Male,Delhi,2023-02-21
+S070,UX303,2024-02-06,63,72.12,DM101,1,Well structured,Student_70,25,Male,Delhi,2023-02-21
+S070,WD404,2024-02-10,132,41.39,DM101,1,Well structured,Student_70,25,Male,Delhi,2023-02-21
+S070,UX303,2024-02-06,41,61.61,DM101,1,Well structured,Student_70,25,Male,Delhi,2023-02-21
+S070,WD404,2024-02-20,98,95.91,DM101,1,Well structured,Student_70,25,Male,Delhi,2023-02-21
+S070,PY202,2024-02-07,20,35.89,DM101,1,Well structured,Student_70,25,Male,Delhi,2023-02-21
+S071,UX303,2024-02-26,177,33.08,WD404,2,Too fast-paced,Student_71,28,Female,Kolkata,2023-07-14
+S071,WD404,2024-01-28,61,84.52,WD404,2,Too fast-paced,Student_71,28,Female,Kolkata,2023-07-14
+S071,UX303,2024-03-12,79,22.35,WD404,2,Too fast-paced,Student_71,28,Female,Kolkata,2023-07-14
+S071,PY202,2024-02-01,22,70.29,WD404,2,Too fast-paced,Student_71,28,Female,Kolkata,2023-07-14
+S072,PY202,2024-01-07,35,47.2,UX303,5,Too fast-paced,Student_72,34,Female,Chennai,2023-05-23
+S072,WD404,2024-01-13,45,10.47,UX303,5,Too fast-paced,Student_72,34,Female,Chennai,2023-05-23
+S072,PY202,2024-02-22,177,94.15,UX303,5,Too fast-paced,Student_72,34,Female,Chennai,2023-05-23
+S072,WD404,2024-03-02,176,27.95,UX303,5,Too fast-paced,Student_72,34,Female,Chennai,2023-05-23
+S072,UX303,2024-02-11,83,68.13,UX303,5,Too fast-paced,Student_72,34,Female,Chennai,2023-05-23
+S072,DM101,2024-03-24,156,30.9,UX303,5,Too fast-paced,Student_72,34,Female,Chennai,2023-05-23
+S073,PY202,2024-02-23,55,94.05,WD404,4,Could be better,Student_73,25,Other,Bangalore,2023-08-21
+S073,DM101,2024-02-20,136,26.77,WD404,4,Could be better,Student_73,25,Other,Bangalore,2023-08-21
+S073,UX303,2024-01-05,12,36.86,WD404,4,Could be better,Student_73,25,Other,Bangalore,2023-08-21
+S074,UX303,2024-02-06,126,99.02,DM101,3,Too fast-paced,Student_74,20,Female,Delhi,2023-11-22
+S074,WD404,2024-01-18,139,52.12,DM101,3,Too fast-paced,Student_74,20,Female,Delhi,2023-11-22
+S074,PY202,2024-01-15,94,24.62,DM101,3,Too fast-paced,Student_74,20,Female,Delhi,2023-11-22
+S074,WD404,2024-03-23,75,74.67,DM101,3,Too fast-paced,Student_74,20,Female,Delhi,2023-11-22
+S075,UX303,2024-02-07,155,70.7,WD404,1,Well structured,Student_75,20,Other,Delhi,2023-07-06
+S075,PY202,2024-01-23,166,87.05,WD404,1,Well structured,Student_75,20,Other,Delhi,2023-07-06
+S075,WD404,2024-02-24,141,39.51,WD404,1,Well structured,Student_75,20,Other,Delhi,2023-07-06
+S076,DM101,2024-01-24,45,52.97,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,PY202,2024-01-01,76,44.52,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,WD404,2024-02-04,94,37.18,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,DM101,2024-02-03,177,42.36,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,PY202,2024-01-08,180,20.64,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,UX303,2024-01-21,113,71.75,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,UX303,2024-03-29,40,67.48,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,UX303,2024-02-17,167,29.88,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S076,PY202,2024-03-02,49,50.95,WD404,5,Very helpful,Student_76,18,Male,Chennai,2023-03-25
+S077,WD404,2024-03-30,150,92.15,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,PY202,2024-02-01,162,88.58,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,DM101,2024-03-08,124,57.54,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,UX303,2024-01-10,154,20.1,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,PY202,2024-03-14,147,23.49,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,UX303,2024-03-07,123,20.46,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,PY202,2024-03-15,135,18.18,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S077,WD404,2024-01-08,126,21.87,PY202,5,Could be better,Student_77,22,Male,Bangalore,2023-07-09
+S078,WD404,2024-03-13,24,60.29,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,UX303,2024-01-03,111,32.9,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,DM101,2024-01-28,158,16.57,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,WD404,2024-02-14,26,58.7,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,DM101,2024-01-09,130,12.86,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,WD404,2024-01-24,44,78.92,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,WD404,2024-02-17,107,50.37,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,WD404,2024-02-18,30,71.45,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S078,PY202,2024-03-24,99,20.68,UX303,5,Needs improvement,Student_78,27,Male,Bangalore,2023-07-01
+S080,PY202,2024-03-05,84,31.07,DM101,2,Needs improvement,Student_80,26,Other,Bangalore,2023-12-10
+S080,UX303,2024-03-14,163,79.53,DM101,2,Needs improvement,Student_80,26,Other,Bangalore,2023-12-10
+S080,UX303,2024-01-31,87,88.86,DM101,2,Needs improvement,Student_80,26,Other,Bangalore,2023-12-10
+S081,WD404,2024-02-08,80,15.49,DM101,4,Needs improvement,Student_81,24,Male,Bangalore,2023-05-17
+S081,PY202,2024-03-21,119,60.03,DM101,4,Needs improvement,Student_81,24,Male,Bangalore,2023-05-17
+S081,DM101,2024-02-14,174,70.42,DM101,4,Needs improvement,Student_81,24,Male,Bangalore,2023-05-17
+S081,UX303,2024-03-30,116,46.74,DM101,4,Needs improvement,Student_81,24,Male,Bangalore,2023-05-17
+S081,UX303,2024-02-18,57,77.9,DM101,4,Needs improvement,Student_81,24,Male,Bangalore,2023-05-17
+S081,WD404,2024-01-31,67,37.07,DM101,4,Needs improvement,Student_81,24,Male,Bangalore,2023-05-17
+S082,WD404,2024-01-08,153,47.14,WD404,2,Too fast-paced,Student_82,26,Female,Bangalore,2023-12-26
+S082,WD404,2024-03-12,145,22.07,WD404,2,Too fast-paced,Student_82,26,Female,Bangalore,2023-12-26
+S082,PY202,2024-02-02,62,39.72,WD404,2,Too fast-paced,Student_82,26,Female,Bangalore,2023-12-26
+S082,DM101,2024-02-27,104,18.32,WD404,2,Too fast-paced,Student_82,26,Female,Bangalore,2023-12-26
+S082,PY202,2024-01-07,78,43.95,WD404,2,Too fast-paced,Student_82,26,Female,Bangalore,2023-12-26
+S083,DM101,2024-01-25,160,75.19,DM101,5,Well structured,Student_83,25,Female,Mumbai,2023-12-16
+S083,PY202,2024-03-02,63,88.25,DM101,5,Well structured,Student_83,25,Female,Mumbai,2023-12-16
+S083,UX303,2024-02-08,13,29.06,DM101,5,Well structured,Student_83,25,Female,Mumbai,2023-12-16
+S087,DM101,2024-03-20,173,70.01,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,WD404,2024-03-25,134,11.42,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,WD404,2024-01-02,14,57.65,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,UX303,2024-03-09,83,11.54,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,WD404,2024-01-23,37,92.62,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,PY202,2024-01-31,59,65.78,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,UX303,2024-02-15,78,81.54,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S087,DM101,2024-02-17,113,51.31,DM101,1,Well structured,Student_87,33,Male,Delhi,2023-11-22
+S088,PY202,2024-02-08,30,68.84,DM101,1,Too fast-paced,Student_88,22,Male,Kolkata,2023-03-29
+S088,DM101,2024-01-12,113,44.13,DM101,1,Too fast-paced,Student_88,22,Male,Kolkata,2023-03-29
+S088,WD404,2024-01-08,173,10.85,DM101,1,Too fast-paced,Student_88,22,Male,Kolkata,2023-03-29
+S088,PY202,2024-01-11,137,86.08,DM101,1,Too fast-paced,Student_88,22,Male,Kolkata,2023-03-29
+S088,UX303,2024-03-13,34,90.53,DM101,1,Too fast-paced,Student_88,22,Male,Kolkata,2023-03-29
+S088,DM101,2024-01-30,64,91.11,DM101,1,Too fast-paced,Student_88,22,Male,Kolkata,2023-03-29
+S089,UX303,2024-01-06,29,71.6,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,UX303,2024-03-10,154,69.23,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,PY202,2024-02-10,14,96.53,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,PY202,2024-02-20,29,36.93,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,PY202,2024-03-13,109,70.93,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,UX303,2024-02-19,45,81.14,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,DM101,2024-03-05,98,14.83,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,WD404,2024-01-30,29,40.65,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,WD404,2024-02-11,17,67.07,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S089,WD404,2024-03-03,68,42.02,PY202,4,Excellent instructor,Student_89,20,Other,Chennai,2023-10-01
+S090,WD404,2024-01-24,159,69.46,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,DM101,2024-03-20,85,81.82,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,DM101,2024-01-11,78,23.88,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,PY202,2024-02-19,91,42.46,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,DM101,2024-01-01,88,50.03,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,UX303,2024-01-14,43,17.86,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,WD404,2024-02-27,152,59.93,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,WD404,2024-01-14,16,18.07,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S090,DM101,2024-03-17,163,80.6,DM101,3,Well structured,Student_90,29,Female,Kolkata,2023-05-06
+S091,DM101,2024-02-07,115,44.9,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,DM101,2024-03-12,72,61.48,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,PY202,2024-03-28,107,25.26,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,UX303,2024-02-08,78,54.38,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,DM101,2024-01-22,121,34.84,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,UX303,2024-03-02,29,42.5,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,PY202,2024-03-21,136,63.44,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,PY202,2024-02-28,37,22.19,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S091,DM101,2024-02-20,95,85.75,DM101,3,Very helpful,Student_91,25,Female,Bangalore,2023-03-25
+S092,UX303,2024-02-26,95,48.76,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,PY202,2024-02-08,92,64.29,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,PY202,2024-03-02,90,25.99,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,WD404,2024-02-10,84,76.14,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,WD404,2024-03-14,72,39.33,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,UX303,2024-02-20,103,20.25,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,PY202,2024-03-16,149,26.19,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,DM101,2024-02-29,63,49.46,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S092,UX303,2024-03-29,27,83.71,WD404,3,Well structured,Student_92,20,Male,Chennai,2023-08-25
+S093,WD404,2024-01-18,172,37.25,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,UX303,2024-03-25,49,74.37,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,WD404,2024-01-10,124,99.16,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,WD404,2024-03-15,112,58.09,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,WD404,2024-03-10,19,81.16,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,UX303,2024-03-30,147,63.44,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,DM101,2024-01-14,73,69.18,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,UX303,2024-01-22,175,65.14,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S093,WD404,2024-02-12,120,19.54,DM101,1,Needs improvement,Student_93,18,Female,Bangalore,2023-07-14
+S094,UX303,2024-01-29,140,77.22,PY202,4,Well structured,Student_94,20,Female,Delhi,2023-05-19
+S094,PY202,2024-02-27,105,45.2,PY202,4,Well structured,Student_94,20,Female,Delhi,2023-05-19
+S094,PY202,2024-02-14,16,53.45,PY202,4,Well structured,Student_94,20,Female,Delhi,2023-05-19
+S094,UX303,2024-02-23,31,20.45,PY202,4,Well structured,Student_94,20,Female,Delhi,2023-05-19
+S095,UX303,2024-02-09,97,50.98,DM101,3,Too fast-paced,Student_95,22,Other,Delhi,2023-11-24
+S095,PY202,2024-03-07,133,41.35,DM101,3,Too fast-paced,Student_95,22,Other,Delhi,2023-11-24
+S095,DM101,2024-02-26,125,38.7,DM101,3,Too fast-paced,Student_95,22,Other,Delhi,2023-11-24
+S095,UX303,2024-01-06,39,12.03,DM101,3,Too fast-paced,Student_95,22,Other,Delhi,2023-11-24
+S095,UX303,2024-03-23,37,70.94,DM101,3,Too fast-paced,Student_95,22,Other,Delhi,2023-11-24
+S096,PY202,2024-03-07,54,59.67,DM101,1,Too fast-paced,Student_96,32,Other,Chennai,2023-12-19
+S096,UX303,2024-03-12,119,96.26,DM101,1,Too fast-paced,Student_96,32,Other,Chennai,2023-12-19
+S096,PY202,2024-02-21,171,26.6,DM101,1,Too fast-paced,Student_96,32,Other,Chennai,2023-12-19
+S096,WD404,2024-02-20,17,76.36,DM101,1,Too fast-paced,Student_96,32,Other,Chennai,2023-12-19
+S096,PY202,2024-02-27,161,48.66,DM101,1,Too fast-paced,Student_96,32,Other,Chennai,2023-12-19
+S097,PY202,2024-01-27,81,77.71,PY202,5,Loved the examples,Student_97,31,Other,Chennai,2023-10-13
+S097,DM101,2024-03-14,36,81.96,PY202,5,Loved the examples,Student_97,31,Other,Chennai,2023-10-13
+S097,PY202,2024-02-16,93,27.74,PY202,5,Loved the examples,Student_97,31,Other,Chennai,2023-10-13
+S098,UX303,2024-03-26,135,57.49,WD404,3,Great course!,Student_98,20,Other,Kolkata,2023-04-23
+S098,UX303,2024-03-17,109,65.02,WD404,3,Great course!,Student_98,20,Other,Kolkata,2023-04-23
+S098,DM101,2024-02-14,100,86.1,WD404,3,Great course!,Student_98,20,Other,Kolkata,2023-04-23
+S098,PY202,2024-03-27,86,92.68,WD404,3,Great course!,Student_98,20,Other,Kolkata,2023-04-23
+S099,PY202,2024-02-10,40,31.47,WD404,5,Needs improvement,Student_99,18,Male,Kolkata,2023-12-17
+S099,DM101,2024-01-24,105,72.41,WD404,5,Needs improvement,Student_99,18,Male,Kolkata,2023-12-17
+S099,WD404,2024-02-23,162,22.41,WD404,5,Needs improvement,Student_99,18,Male,Kolkata,2023-12-17
+S099,WD404,2024-02-24,57,53.8,WD404,5,Needs improvement,Student_99,18,Male,Kolkata,2023-12-17
+S100,PY202,2024-03-03,83,22.63,DM101,4,Too fast-paced,Student_100,22,Other,Bangalore,2023-06-16
+S100,UX303,2024-02-27,168,14.83,DM101,4,Too fast-paced,Student_100,22,Other,Bangalore,2023-06-16
+S100,UX303,2024-01-02,134,22.29,DM101,4,Too fast-paced,Student_100,22,Other,Bangalore,2023-06-16
+S100,WD404,2024-03-12,139,68.78,DM101,4,Too fast-paced,Student_100,22,Other,Bangalore,2023-06-16
+S100,WD404,2024-03-28,135,47.41,DM101,4,Too fast-paced,Student_100,22,Other,Bangalore,2023-06-16
